@@ -12,7 +12,7 @@ function Footer() {
         className="object-contain"
       />
       <div className="flex items-center gap-6">
-        <a href="https://your-tiktok-url" target="_blank" rel="noopener noreferrer">
+        <a href="" target="_blank" rel="noopener noreferrer">
           <Image
             src="./tiktok.svg"
             alt="logo"
